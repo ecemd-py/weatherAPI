@@ -1,0 +1,6 @@
+flask
+pyjwt
+pyjwt[crypto]
+pandas
+sqlalchemy
+psycopg2
